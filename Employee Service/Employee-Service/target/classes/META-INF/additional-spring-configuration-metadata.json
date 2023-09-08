@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jpa.hibernate.dilect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dilect'"
+  },
+  {
+    "name": "auto.create.topics.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'auto.create.topics.enable'"
+  },
+  {
+    "name": "employee.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'employee.topic.name'"
+  }
+]}
